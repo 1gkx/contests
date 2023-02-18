@@ -1,0 +1,7 @@
+# IDE Settings folders
+.idea
+.vscode
+.DS_Store
+
+# Developers files
+.bin/
